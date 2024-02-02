@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="task_title">Список задач</string>
+    <string name="add_task">Добавить</string>
+    <string name="more_info">Посмотреть</string>
+    <string name="task_placeholder">Введите задачу сюда</string>
+</resources>
